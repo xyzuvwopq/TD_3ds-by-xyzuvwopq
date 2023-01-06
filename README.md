@@ -8,8 +8,7 @@ So any of participation is welcome!
 bug fix
 
 hair and fur [2023.01.06]
-![fixed version](https://user-images.githubusercontent.com/72133307/210932427-f29bfbc6-9616-4766-b442-dc56ee60c5f4.jpg)
-
+![fixed version](https://user-images.githubusercontent.com/72133307/210933017-f10abc38-7948-4420-be0b-1cab52e6b648.jpg)
 
 
 
