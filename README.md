@@ -19,6 +19,9 @@ Td animal [wiki](https://github.com/xyzuvwopq/TD_3ds-by-xyzuvwopq/wiki/TD-animal
 This is polygon - subdivision modeling method techniques as core set for make the 4 foots life form
 ![Td animal](https://user-images.githubusercontent.com/72133307/211961135-88e87068-3b37-43cb-9aae-d4cefd8028fa.jpg)
 
+[2023.01.21]
+TD bench - add Thumbnail, merge duplicated nodes
+![td_bench](https://user-images.githubusercontent.com/72133307/213868695-603bc72a-336f-4437-89b1-7f49bf9f403a.jpg)
 
 
 
